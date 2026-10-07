@@ -1,4 +1,4 @@
 cd C:\Users\ShaikAli\.gemini\antigravity\scratch\risk-copilot
 git branch -M main
-git remote add origin https://github.com/<your-username>/aegis-risk-copilot.git
+git remote add origin https://github.com/shaikjafar559/aegis-risk-copilot.git
 git push -u origin main
